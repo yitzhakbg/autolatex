@@ -1,4 +1,4 @@
-#!/usr/bin/perl -W
+#!/usr/bin/env perl -W
 
 # autolatex - autolatex.pl
 # Copyright (C) 1998-13  Stephane Galland <galland@arakhne.org>

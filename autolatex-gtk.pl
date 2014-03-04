@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl -w
 
 # autolatex - autolatex-gtk.pl
 # Copyright (C) 2007-13  Stephane Galland <galland@arakhne.org>
